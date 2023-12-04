@@ -1,1 +1,1 @@
-[# Palindrome](https://palindromeechecker.netlify.app/)
+[Palindrome Checker](https://palindromeechecker.netlify.app/)
